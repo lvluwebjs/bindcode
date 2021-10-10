@@ -1,0 +1,31 @@
+
+.box-item.data-v-92bb8f34 {
+	height: 115rpx;
+	padding: 31rpx 65rpx;
+	box-sizing: border-box;
+}
+.list-item.data-v-92bb8f34 {
+	width: 33.33%;
+	display: inline-block;
+	position: relative;
+}
+.item-title.data-v-92bb8f34 {
+	text-align: center;
+	white-space: nowrap;
+	font-weight: bold;
+	font-size: 25rpx;
+}
+.activePage.data-v-92bb8f34 {
+	border-bottom: 5px solid black;
+	border-radius: 15px;
+	width: 27rpx;
+	position: absolute;
+	left: 50%;
+	-webkit-transform: translate(-35%, 30%);
+	        transform: translate(-35%, 30%);
+}
+.fontChange.data-v-92bb8f34 {
+	font-weight: 900;
+	font-size: 30rpx;
+}
+
